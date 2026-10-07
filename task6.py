@@ -1,0 +1,5 @@
+a = float(input())
+b = float(input())
+l = float(input())
+n = int(input())
+print(2 * l + a + 2 * (n - 1) * (a + b))
